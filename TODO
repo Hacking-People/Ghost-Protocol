@@ -25,4 +25,4 @@ activation:
 - be able to set what you want to do [ghost(delete everything), or spooky(encrypt & hide)]
 
 other:
-- when spooky is activated encrpyt certain files (preselected) and move them to a [Mega](https://mega.io/)
+- when spooky is activated encrypt certain files (preselected) and move them to a [Mega](https://mega.io/)
