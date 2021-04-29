@@ -1,0 +1,28 @@
+
+## Ghost:
+Create a script that will do the following things:
+- delete whatsapp messages
+- delete all tweets
+- delete all twitter DM's
+- delete all emails
+- delete all AWS instances
+- send a message to certian people stating "You've gone ghost"
+
+
+
+## Spooky:
+Create a different script that will do the following things:
+- encrypt & hide whatsapp messages
+- encrypt & hide all tweets
+- encrypt & hide all twitter DM's
+- encrypt & hide all emails
+- change password / keys to all AWS instances to previously generated content
+- send a message to certian people stating "You've gone ghost"
+
+
+activation: 
+- activate this via a webhook, button, or sms
+- be able to set what you want to do [ghost(delete everything), or spooky(encrypt & hide)]
+
+other:
+- when spooky is activated encrpyt certain files (preselected) and move them to a [Mega](https://mega.io/)
