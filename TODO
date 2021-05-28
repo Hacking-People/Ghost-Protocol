@@ -10,7 +10,7 @@ Create a script that will do the following things:
 
 
 
-## Spooky:
+## Spook:
 Create a different script that will do the following things:
 - encrypt & hide whatsapp messages
 - encrypt & hide all tweets
@@ -22,7 +22,7 @@ Create a different script that will do the following things:
 
 activation: 
 - activate this via a webhook, button, or sms
-- be able to set what you want to do [ghost(delete everything), or spooky(encrypt & hide)]
+- be able to set what you want to do [ghost(delete everything), or spook(encrypt & hide)]
 
 other:
-- when spooky is activated encrypt certain files (preselected) and move them to a [Mega](https://mega.io/)
+- when spook is activated encrypt certain files (preselected) and move them to a [Mega](https://mega.io/)
