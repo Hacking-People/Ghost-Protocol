@@ -6,7 +6,7 @@ Create a script that will do the following things:
 - delete all twitter DM's
 - delete all emails
 - delete all AWS instances
-- send a message to certian people stating "You've gone ghost"
+- send a message to certain people stating "You've gone ghost"
 
 
 
@@ -26,3 +26,9 @@ activation:
 
 other:
 - when spook is activated encrypt certain files (preselected) and move them to a [Mega](https://mega.io/)
+
+
+
+Other Stuff:
+
+PyGithub for deleting/privatising All Github Repos
